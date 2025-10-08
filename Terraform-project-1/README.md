@@ -7,7 +7,7 @@ It creates a complete setup including a **VPC**, **2 public subnets**, an **Appl
 
 ## 🧠 Architecture Overview
 
-![AWS Terraform Architecture]()
+![AWS Terraform Architecture](https://github.com/Prudhvi5442/DevOps-Projects/blob/951606e84f7f88e649d97a417f68011693e34f67/Terraform-project-1/AWS%20Terraform%20Infra.jpg)
 
 ### Components:
 - **VPC** 
